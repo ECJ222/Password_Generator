@@ -1,3 +1,2 @@
 # Password Generator
-Password Generator built with python
-
+Password Generator built with pytho
